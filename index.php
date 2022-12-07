@@ -14,6 +14,11 @@
 
     <br><br>
 
+    <a href="tambah.php">TAMBAH DATA MAHASISWA</a>
+
+    <br><br>
+
+
     <table border="1">
         <tr>
             <th>NO</th>
